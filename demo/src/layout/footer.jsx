@@ -5,7 +5,7 @@ function Footer() {
         © {new Date().getFullYear()} aimwave
         <a className="grey-text
         text-lighten-4 right" 
-        href="!#">Repository</a>
+        href="https://github.com/aimwave/1aimwave">Repository</a>
       </div>
     </div>
 </footer>
